@@ -11,3 +11,8 @@ Hier werdern alle CDN's von meinen Projekten gespeichert.
   ```html
   <script src="https://lavakonsti.github.io/DeepThought.js/v1.0/DeepThought.js" charset="utf-8"></script>
   ```
+- _IDIOT FORGOT v1.1_
+- v1.2
+  ```html
+  <script src="https://lavakonsti.github.io/DeepThought.js/v1.2/DeepThought.js" charset="utf-8"></script>
+  ```
